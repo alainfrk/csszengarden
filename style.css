@@ -37,7 +37,7 @@ body {
 }
 
 body {
-  background-image: url(city-at-night-darkened.webp);
+  background-image: url(img/city-at-night-darkened.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -188,7 +188,7 @@ h2 {
 
 .participation::before {
   content: "";
-  background-image: url(cyberpunk-walk-street.png);
+  background-image: url(img/cyberpunk-walk-street.webp);
   position: absolute;
   top: 20px;
   left: -286px;
@@ -213,7 +213,7 @@ h2 {
 
 .requirements > :nth-child(2)::before {
   content: "";
-  background-image: url(cyberpunk-gun-dark-256x448.png);
+  background-image: url(img/cyberpunk-gun-dark-256x448.webp);
   float: right;
   width: 256px;
   height: 448px;
@@ -338,7 +338,7 @@ footer::before {
 
   .participation::before {
     content: "";
-    background-image: url(cyberpunk-street-walk-wide.png);
+    background-image: url(img/cyberpunk-street-walk-wide.webp);
     position: absolute;
     top: 0;
     left: 50%;
@@ -427,7 +427,7 @@ footer::before {
 
   .participation::before {
     content: "";
-    background-image: url(cyberpunk-street-walk-wide.png);
+    background-image: url(img/cyberpunk-street-walk-wide.webp);
     position: absolute;
     top: 0;
     left: 50%;
@@ -443,7 +443,7 @@ footer::before {
 
   .requirements h3::before {
     content: "";
-    background-image: url(cyberpunk-gun-dark-256x448.png);
+    background-image: url(img/cyberpunk-gun-dark-256x448.webp);
     position: absolute;
     top: 0;
     left: 50%;
